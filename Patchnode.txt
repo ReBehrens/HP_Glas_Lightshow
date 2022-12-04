@@ -1,0 +1,13 @@
+Patch node
+
+V 1.0
+
+- Start coding a stable code.
+
+- Creating a serial output at 9600 baud
+
+- Creating two light areas (1. house 2. torch)
+
+- Creating a random flicker function for the torch
+
+- creating a brightness query
