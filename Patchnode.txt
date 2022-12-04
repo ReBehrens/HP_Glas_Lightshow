@@ -1,13 +1,14 @@
 Patch node
 
-V 1.0
+V 1.1
 
-- Start coding a stable code.
+- Include an initialization (set the current brightness value as turn-on value).
 
-- Creating a serial output at 9600 baud
+- Include a tolerance for the lightsensor.
 
-- Creating two light areas (1. house 2. torch)
+- Include a timer for the twilight range ( turn lights on if brightness value < twilight value for x sec.).
 
-- Creating a random flicker function for the torch
+- Include a "light on" timer (to prevent flashing).
 
-- creating a brightness query
+- Include a "cool-down" timer (after lights turn off one must wait for x sec before the tights can turn on again).
+
