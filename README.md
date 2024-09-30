@@ -40,4 +40,3 @@ This repository contains the code that runs on the Arduino Nano. To get started:
 1. Upload the code to the Arduino Nano.
 2. Connect the light sensor and LEDs according to the wiring diagram.
 3. Power the system and watch the magic unfold!
-Du kannst die Bilder, Links und zusätzlichen Informationen anpassen, bevor du die Datei in deinem Repository hochlädst.
