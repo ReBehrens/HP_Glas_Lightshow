@@ -21,12 +21,12 @@ This project is a handcrafted diorama that captures a magical scene from the Har
 - **Custom Lighting**: A combination of flickering and steady LEDs that bring the scene to life.
 
 ### 📸 Pictures
-![Diorama Image](https://ibb.co/Qpfw8GW)
-![Diorama Image](https://ibb.co/Syxjm0L)
-![Diorama Image](https://ibb.co/HtHBQVV)
-![Diorama Image](https://ibb.co/cY1nW7C)
-![Diorama Image](https://ibb.co/Y3PGnSy)
-![Diorama Image](https://ibb.co/r05p01f)
+[url=https://ibb.co/Qpfw8GW][img]https://i.ibb.co/KbXvNHt/AB724760-4-D55-4526-81-A1-E56-AB3-C10-D89-1-105-c.jpg[/img][/url]
+[url=https://ibb.co/Syxjm0L][img]https://i.ibb.co/YQWCd8r/71-CD5-EE7-6210-4197-8617-56-C5424-E550-B-1-105-c.jpg[/img][/url]
+[url=https://ibb.co/HtHBQVV][img]https://i.ibb.co/D9Rzntt/F209-D9-A2-9873-40-A0-8-E3-D-664980-BA55-B9-1-105-c.jpg[/img][/url]
+[url=https://ibb.co/cY1nW7C][img]https://i.ibb.co/NTsB0Hm/C9733-BB5-5-A9-D-4-B6-C-AD56-1-AC89-EE3-BFA1-1-105-c.png[/img][/url]
+[url=https://ibb.co/Y3PGnSy][img]https://i.ibb.co/BtcRWJr/C1-D418-F5-44-C6-4-FBE-8807-B267-E8944758-1-105-c.png[/img][/url]
+[url=https://ibb.co/r05p01f][img]https://i.ibb.co/54sj4fx/Bildschirmfoto-2024-09-30-um-17-56-42.png[/img][/url]
 
 
 
